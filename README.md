@@ -11,10 +11,6 @@
 > Setting up and hosting the Platform yourself is a technical process. 
 > If you'd rather something that just works, we recommend [joining the waitlist](https://bit.ly/3ZDijAI) for the cloud-hosted beta.
 
-https://github.com/user-attachments/assets/d04273a5-b36a-4a37-818e-f631ce72d603
-
-This tutorial assumes you have Docker, VSCode, git and npm installed.
-
 ### 🧱 Frontend
 
 The frontend is where users interact with our powerful AI automation platform. It offers multiple ways to engage with and leverage our AI agents. This is the interface where you'll bring your AI automation ideas to life:
@@ -132,26 +128,6 @@ Commands:
 ```
 
 Just clone the repo, install dependencies with `./run setup`, and you should be good to go!
-
-## 🤝 Sister projects
-
-### 🔄 Agent Protocol
-
-To maintain a uniform standard and ensure seamless compatibility with many current and future applications, AutoGPT employs the [agent protocol](https://agentprotocol.ai/) standard by the AI Engineer Foundation. This standardizes the communication pathways from your agent to the frontend and benchmark.
-
----
-
-## Stars stats
-
-<p align="center">
-<a href="https://star-history.com/#Significant-Gravitas/AutoGPT">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Significant-Gravitas/AutoGPT&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Significant-Gravitas/AutoGPT&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Significant-Gravitas/AutoGPT&type=Date" />
-  </picture>
-</a>
-</p>
 
 
 ## ⚡ Contributors
