@@ -1,10 +1,10 @@
-# AutoGPT: Build, Deploy, and Run AI Agents
+# Build, Deploy, and Run AI Agents
 
 [![Discord Follow](https://dcbadge.vercel.app/api/server/autogpt?style=flat)](https://discord.gg/autogpt) &ensp;
 [![Twitter Follow](https://img.shields.io/twitter/follow/Auto_GPT?style=social)](https://twitter.com/Auto_GPT) &ensp;
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**AutoGPT** is a powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows. 
+**Quinn** is a powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows. 
 
 ## Hosting Options 
    - Download to self-host
@@ -19,27 +19,25 @@ https://github.com/user-attachments/assets/d04273a5-b36a-4a37-818e-f631ce72d603
 
 This tutorial assumes you have Docker, VSCode, git and npm installed.
 
-### 🧱 AutoGPT Frontend
+### 🧱 Frontend
 
-The AutoGPT frontend is where users interact with our powerful AI automation platform. It offers multiple ways to engage with and leverage our AI agents. This is the interface where you'll bring your AI automation ideas to life:
+The frontend is where users interact with our powerful AI automation platform. It offers multiple ways to engage with and leverage our AI agents. This is the interface where you'll bring your AI automation ideas to life:
 
    **Agent Builder:** For those who want to customize, our intuitive, low-code interface allows you to design and configure your own AI agents. 
    
-   **Workflow Management:** Build, modify, and optimize your automation workflows with ease. You build your agent by connecting blocks, where each block     performs a single action.
+   **Workflow Management:** Build, modify, and optimize your automation workflows with ease. You build your agent by connecting blocks, where each block performs a single action.
    
    **Deployment Controls:** Manage the lifecycle of your agents, from testing to production.
    
    **Ready-to-Use Agents:** Don't want to build? Simply select from our library of pre-configured agents and put them to work immediately.
    
-   **Agent Interaction:** Whether you've built your own or are using pre-configured agents, easily run and interact with them through our user-friendly      interface.
+   **Agent Interaction:** Whether you've built your own or are using pre-configured agents, easily run and interact with them through our user-friendly interface.
 
    **Monitoring and Analytics:** Keep track of your agents' performance and gain insights to continually improve your automation processes.
 
-[Read this guide](https://docs.agpt.co/platform/new_blocks/) to learn how to build your own custom blocks.
+### 💽 Server
 
-### 💽 AutoGPT Server
-
-The AutoGPT Server is the powerhouse of our platform This is where your agents run. Once deployed, agents can be triggered by external sources and can operate continuously. It contains all the essential components that make AutoGPT run smoothly.
+The Server is the powerhouse of our platform This is where your agents run. Once deployed, agents can be triggered by external sources and can operate continuously. It contains all the essential components that make it run smoothly.
 
    **Source Code:** The core logic that drives our agents and automation processes.
    
@@ -49,7 +47,7 @@ The AutoGPT Server is the powerhouse of our platform This is where your agents r
 
 ### 🐙 Example Agents
 
-Here are two examples of what you can do with AutoGPT:
+Here are two examples of what you can do:
 
 1. **Generate Viral Videos from Trending Topics**
    - This agent reads topics on Reddit.
@@ -62,7 +60,7 @@ Here are two examples of what you can do with AutoGPT:
    - It uses AI to identify the most impactful quotes to generate a summary.
    - Then, it writes a post to automatically publish to your social media. 
 
-These examples show just a glimpse of what you can achieve with AutoGPT! You can create customized workflows to build agents for any use case.
+These examples show just a glimpse of what you can achieve! You can create customized workflows to build agents for any use case.
 
 ---
 ### Mission and Licencing
@@ -72,7 +70,6 @@ Our mission is to provide the tools, so that you can focus on what matters:
 - 🧪 **Testing** - Fine-tune your agent to perfection.
 - 🤝 **Delegating** - Let AI work for you, and have your ideas come to life.
 
-Be part of the revolution! **AutoGPT** is here to stay, at the forefront of AI innovation.
 
 **📖 [Documentation](https://docs.agpt.co)**
 &ensp;|&ensp;
@@ -87,7 +84,7 @@ Polyform Shield License: This license applies to the autogpt_platform folder.
 For more information, see https://agpt.co/blog/introducing-the-autogpt-platform
 
 ---
-## 🤖 AutoGPT Classic
+## 🤖 Classic
 > Below is information about the classic version of AutoGPT.
 
 **🛠️ [Build your own Agent - Quickstart](classic/FORGE-QUICKSTART.md)**
