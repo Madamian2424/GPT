@@ -1,6 +1,6 @@
 # Build, Deploy, and Run AI Agents
 
-**Quinn** is a powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows. 
+**GPT** is a powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows. 
 
 ## Hosting Options 
    - Download to self-host
